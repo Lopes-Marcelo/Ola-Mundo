@@ -1,8 +1,5 @@
 # Olá, Mundo!
  Primeiro do Marcelo! 
  
- Repositório criado no dia 25/02/2022 por Marcelo!
+ Repositório criado no dia 25/02/2022!
 
- Teste realizado para ver a funcionalidade do readme do perfil
-
- Teste 2 realizado para ver a funcionalidade do readme do perfil
